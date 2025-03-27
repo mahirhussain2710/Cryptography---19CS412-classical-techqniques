@@ -208,6 +208,7 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
+~~~
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -290,7 +291,7 @@ int main() {
     
     return 0;
 }
-
+~~~
 
 ## OUTPUT:
 OUTPUT:
